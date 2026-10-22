@@ -1,3 +1,3 @@
 # 計算プログラム
 version = 1.0
-status = "開発中"
+status = "β版リリース完了"
